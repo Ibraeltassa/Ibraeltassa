@@ -1,4 +1,4 @@
-# 👨‍💻 Ibrahim El Tassa
+# 👨🏻‍💻 Ibrahim El Tassa
 
 **`Desenvolvedor`**
 
