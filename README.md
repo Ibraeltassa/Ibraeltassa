@@ -77,8 +77,15 @@ Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
     />
-          
 
+<img
+    align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+   />
 
 <br/>
 <br/>
