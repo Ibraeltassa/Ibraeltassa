@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Ibrahim El Tassa
+# 👩🏻‍💻 Ibrahim El Tassa
 
 **`Desenvolvedor`**
 
@@ -78,7 +78,8 @@ Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
     />
 
-<img
+    
+  <img
     align="left" 
     alt="Firebase" 
     title="Firebase"
@@ -86,20 +87,15 @@ Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da
     style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
    />
+           
+
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ibraeltassa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
