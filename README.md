@@ -87,6 +87,16 @@ Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da
     style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
    />
+   
+
+   <img
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+   />
            
 
 
@@ -101,7 +111,7 @@ Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibraeltassa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
