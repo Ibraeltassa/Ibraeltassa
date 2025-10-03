@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | Software Engineer`**
 
-Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da tecnologia! 🚀 Atualmente, estou cursando Engenharia de Software na Universidade Positivo (UP) em Curitiba-PR. Comunicação e trabalho em equipe são pontos fortes no meu perfil, tenho foco no aprendizado contínuo e no crescimento profissional na área de Engenharia de Software. Fique à vontade para conhecer meus projetos aqui no GitHub ou me conectar no "[LinkedIn](https://www.linkedin.com/in/ibrahim-el-tassa-05aba1218/)".
+Me chamo Ibrahim El Tassa, 20 anos, diretamente de Paranaguá-PR para o mundo da tecnologia! Atualmente, estou cursando Engenharia de Software na Universidade Positivo (UP) em Curitiba-PR. Comunicação e trabalho em equipe são pontos fortes no meu perfil, tenho foco no aprendizado contínuo e no crescimento profissional na área de Engenharia de Software. Fique à vontade para conhecer meus projetos aqui no GitHub ou me conectar no "[LinkedIn](https://www.linkedin.com/in/ibrahim-el-tassa-05aba1218/)".
 
 
 ---
