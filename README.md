@@ -10,6 +10,29 @@ Me chamo Ibrahim El Tassa, diretamente de Paranaguá-PR para o mundo da tecnolog
 ### 💻 Linguagens, Tecnologias e SQL
 
 
+   
+
+
+   <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+
+
+   <img
+    align="left" 
+    alt="PYTHON"
+    title="PYTHON" 
+    width="31px" 
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    />
+
+
    <img
     align="left" 
     alt="KOTLIN"
@@ -18,83 +41,84 @@ Me chamo Ibrahim El Tassa, diretamente de Paranaguá-PR para o mundo da tecnolog
     style="padding-right: 5px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
     />
-          
+
+
+   <img 
+    align="left" 
+    alt="FLUTTER"
+    title="FLUTTER" 
+    width="31px" 
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+   />
+       
 
    <img
     align="left" 
     alt="JAVA" 
     title="JAVA"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 5px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
 
 
-
-<img 
+   <img
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    alt="REACT"
+    title="REACT" 
+    width="31px" 
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
 
-<img 
+
+   <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    alt="AWS"
+    title="AWS" 
+    width="31px" 
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    />
 
-<img 
+
+   <img
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-          
+    alt="DOCKER"
+    title="DOCKER" 
+    width="31px" 
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    />
 
- <img
+
+   <img
     align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-  />
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    />
 
-  
+
    <img
     align="left" 
     alt="SQLite" 
     title="SQLite"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 5px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
     />
 
-    
-  <img
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-   />
    
-
    <img
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
    />
            
