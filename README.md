@@ -4,13 +4,9 @@
 
 Me chamo Ibrahim El Tassa, diretamente de Paranaguá-PR para o mundo da tecnologia! Bacharelado em Engenharia de Software pela Universidade Positivo (UP) em Curitiba-PR. Comunicação e trabalho em equipe são pontos fortes no meu perfil, tenho foco no aprendizado contínuo e no crescimento profissional na área de Engenharia de Software. Fique à vontade para conhecer meus projetos aqui no GitHub ou me conectar no "[LinkedIn](https://www.linkedin.com/in/ibrahim-el-tassa-05aba1218/)".
 
-
 ---
 
 ### 💻 Linguagens, Tecnologias e SQL
-
-
-   
 
 
    <img 
@@ -126,12 +122,11 @@ Me chamo Ibrahim El Tassa, diretamente de Paranaguá-PR para o mundo da tecnolog
 <br/>
 <br/>
 
+<!--
+
 ### 📊 Estatísticas
 
 <p>
-
-
-  
 
 <img 
   align="left" 
@@ -140,5 +135,6 @@ Me chamo Ibrahim El Tassa, diretamente de Paranaguá-PR para o mundo da tecnolog
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibraeltassa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=390" 
 />
 
-
 </p>
+
+-->
